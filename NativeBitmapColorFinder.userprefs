@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AD10D57A-F0AE-4136-B2B4-8F48E1729678}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NativeBitmapColorFinder.Droid/BitmapColorAndroid.cs">
+    <Files>
+      <File FileName="NativeBitmapColorFinder/Views/MainPage.xaml.cs" Line="10" Column="4" />
+      <File FileName="NativeBitmapColorFinder/Services/IBitmapColor.cs" Line="8" Column="21" />
+      <File FileName="NativeBitmapColorFinder/ViewModels/MainPageViewModel.cs" Line="36" Column="1" />
+      <File FileName="NativeBitmapColorFinder/Views/MainPage.xaml" Line="5" Column="60" />
+      <File FileName="NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" Line="31" Column="1" />
+      <File FileName="NativeBitmapColorFinder.iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="451" Column="3" />
+      <File FileName="NativeBitmapColorFinder.Droid/BitmapColorAndroid.cs" Line="27" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/thomasdesmond/Projects/NativeBitmapColorFinder/NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" relfile="NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" line="71" column="19" />
+      <Breakpoint file="/Users/thomasdesmond/Projects/NativeBitmapColorFinder/NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" relfile="NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" line="48" column="1" />
+      <Breakpoint file="/Users/thomasdesmond/Projects/NativeBitmapColorFinder/NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" relfile="NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" line="66" column="1" />
+      <Breakpoint file="/Users/thomasdesmond/Projects/NativeBitmapColorFinder/NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" relfile="NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" line="31" column="1" />
+      <Breakpoint file="/Users/thomasdesmond/Projects/NativeBitmapColorFinder/NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" relfile="NativeBitmapColorFinder.iOS/BitmapColoriOS.cs" line="98" column="1" />
+      <Breakpoint file="/Users/thomasdesmond/Projects/NativeBitmapColorFinder/NativeBitmapColorFinder/ViewModels/MainPageViewModel.cs" relfile="NativeBitmapColorFinder/ViewModels/MainPageViewModel.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NativeBitmapColorFinder.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EAC59461-916A-4694-A3BA-E84A2BAEFF16" />
+  <MonoDevelop.Ide.ItemProperties.NativeBitmapColorFinder.Droid PreferredExecutionTarget="Android.LGLS9976aba96cf" />
+  <MultiItemStartupConfigurations />
+</Properties>
